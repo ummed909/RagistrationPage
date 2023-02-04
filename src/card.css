@@ -1,0 +1,12 @@
+.card{
+    background-image: linear-gradient(rgba(196, 196, 196, 0.575), rgba(63, 63, 65, 0.712));
+    height: 570px;
+    width: 30%;
+    margin-left: 130px;
+    margin-top: 100px;
+    border-radius: 20px;
+    /* box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px}; */
+
+    box-shadow: rgb(0, 0, 0) 0px 20px 30px -10px;
+}
+
